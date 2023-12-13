@@ -2,7 +2,7 @@
 
 # The Structure-Informed Genetic Missense mutation Assessor
 
-This repository provides the code and data for the paper "SIGMA leverages protein structural information to predict the pathogenicity of missense variants".
+This repository provides the code and data for the paper "SIGMA leverages protein structural information to predict the pathogenicity of missense variants" (see also 10.5281/zenodo.10373120).
 
 ### BACKGROUND
 
