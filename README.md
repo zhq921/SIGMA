@@ -18,7 +18,7 @@ SIGMA is an advanced tool designed to predict the pathogenicity of missense vari
 
 To facilitate the application of SIGMA, we pre-computed SIGMA scores for over 48 million possible missense variants across 3,454 disease-associated genes and developed an interactive online platform (https://www.sigma-pred.org/).
 
-<img src="https://github.com/zhq921/SIGMA/blob/main/imgs/SIGMA_prediction.png" width = "70%" />
+<img src="https://github.com/zhq921/SIGMA/blob/main/imgs/sigma_prediction.png" width = "70%" />
 
 ### Who do I talk to?
 
